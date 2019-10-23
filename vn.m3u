@@ -1,0 +1,67 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SET TV
+http://set.flashmediacast.com:1935/SET/livestream/chunklist_w78547929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",VBS TV
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1279214712_b1228800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",v channel
+http://saigontv.saigon.ns01.us:1935/schannel/myStream/chunklist_w1237679916.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",cnbc
+http://live.savitar.tv/CNBC/myStream/chunks.m3u8?nimblesessionid=80972639&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxOSAxMDowNzo0NyBQTSZoYXNoX3ZhbHVlPTM2Zkx1eXZWUUsybU1zbzdubTVmdHc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",amc
+http://live.savitar.tv/AMC/myStream/chunks.m3u8?nimblesessionid=80978230&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxOSAxMDoxMToyNSBQTSZoYXNoX3ZhbHVlPWZVOUw4N3lPdlB4MFpmbG5IMDVmeVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",espn
+http://peer3.savitar.tv/ESPN/myStream/chunks.m3u8?nimblesessionid=16366833&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxOSAxMDoxODoxMSBQTSZoYXNoX3ZhbHVlPVNtWTVDeHVlTlRWZmNEU0E5dUxKQWc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",a&e
+http://live.savitar.tv/AE/myStream/chunks.m3u8?nimblesessionid=80990952&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxOSAxMDoyODoxOSBQTSZoYXNoX3ZhbHVlPU9DWDVxUUNrbGMzZkJ1Q2N1VXVRNmc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ap
+http://live.savitar.tv/Animal/myStream/chunks.m3u8?nimblesessionid=80992673&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxOSAxMDozMDowOCBQTSZoYXNoX3ZhbHVlPXRGVWRZRzVxTmtEWWRsYWQ5Qmd5NVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",cnn
+http://peer2.savitar.tv/CNN/myStream/chunks.m3u8?nimblesessionid=53424383&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxOSAxMDoyMzo0OSBQTSZoYXNoX3ZhbHVlPTdXbTVaaUwyQ0pmWWpkUXBVdWgyWkE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DC
+http://live.savitar.tv/Disney/myStream/chunks.m3u8?nimblesessionid=80995026&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxOSAxMDozMjo0MiBQTSZoYXNoX3ZhbHVlPWhNbTc2azcyYm1LQndzV3JlTTFGRWc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",foxnews
+http://peer2.savitar.tv/FoxNews/myStream/chunks.m3u8?nimblesessionid=53426318&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxOSAxMDozNDozMiBQTSZoYXNoX3ZhbHVlPUcvWk0vM1BwcFVNM1RWeEY0R2hndHc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FBN
+http://live.savitar.tv/FoxBusiness/myStream/chunks.m3u8?nimblesessionid=81001572&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxOSAxMDozODozNyBQTSZoYXNoX3ZhbHVlPW9vb0Y1ZHBnS1pWV1pjeWJoNVEvUUE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MSNBC
+http://peer2.savitar.tv/MSNBC/myStream/chunks.m3u8?nimblesessionid=53430477&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxOSAxMDozODowMiBQTSZoYXNoX3ZhbHVlPUgxTUhZZmJsYWw1SEFTa2lTN1ZTUmc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MSNBC
+https://1420543146.rsc.cdn77.org/UZzNNQwPtAtXXCA19bP7zw==,1571797207/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HLN
+https://1161275585.rsc.cdn77.org/LS-ATL-54548-7/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",truyen hinh vn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",sctv9
+
+https://g2qd3mowl7an-hls-live.5centscdn.com/tv/sctv9.stream/mono.m3u8?md5=hBK9N5Zqh62_nhlpY7nx6w&expires=1571834406
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",sctv14
+http://27.67.50.69:18080//57_2.m3u8?AdaptiveType=HLS&SessionID=c2119b97-ec35-4414-a90a-36e523c0c1f0&MinBw=0&MaxBw=2000000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",sctvphim
+http://27.67.80.72:18080//31_2.m3u8?AdaptiveType=HLS&SessionID=45d9b1a1-d898-405c-9c46-44748904ad2a&MinBw=0&MaxBw=2000000
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",sctv15
+http://27.67.50.78:18080/150_1.m3u8?Range=261966437-261966438&SessionID=b95939c9-7529-4cf1-af11-44079f79b7d1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",echannel
+http://27.67.50.74:18080//227_2.m3u8?AdaptiveType=HLS&SessionID=3b42c4ef-5aa7-424d-9bce-586d4057d0d4&MinBw=0&MaxBw=2000000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",THVL1
+http://it28gechph.vcdn.com.vn/hls/kene1x9/index.m3u8?token=_f57Yg-851PPaqRoxUPq7g&time=1571784728
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",THVL2
+http://27.67.80.78:18080//134_0.m3u8?AdaptiveType=HLS&SessionID=3c360dba-9f3d-4048-bfb1-91d6d7acbee4&MinBw=0&MaxBw=2000000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HTV7
+http://27.67.50.69:18080/157_2.m3u8?Range=261964170-261964171&SessionID=cd9dfc1a-60f4-4c10-9fe4-269552612968
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HTV9
+http://27.67.50.70:18080/158_1.m3u8?Range=261964206-261964207&SessionID=438d1d0e-6f9b-4ec9-9b59-b046c9cb9a67
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",VTC9
+http://27.67.50.80:18080//48_0.m3u8?AdaptiveType=HLS&SessionID=1f66a113-f3da-434f-900f-3bdb81d23374&MinBw=0&MaxBw=2000000
+
+
+
