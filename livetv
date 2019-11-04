@@ -1,0 +1,35 @@
+#EXTM3U $BorpasFileFormat="1"
+#EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\THVL1.png" tvg-name="154",THVL1
+http://cdn.xemtivisohd.com/live/diaphuong/thvl1.php
+#EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\THVL1.png" tvg-name="154",THVL2
+http://cdn.xemtivisohd.com/live/diaphuong/thvl2.php
+#EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv9.png" tvg-name="52",SCTV9
+http://cdn.xemtivisohd.com/live/khac/sctv9.php
+#EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\VTC14.png" tvg-name="43",VTC14
+http://cdn.xemtivisohd.com/live/sctv/sctv14.php
+#EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv15.png" tvg-name="52",SCTV15
+http://cdn.xemtivisohd.com/live/sctv/sctv15.php
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\KhanhHoaTV.png" tvg-name="169",KhanhHoaTV
+http://cdn.xemtivisohd.com/live/diaphuong/khanhhoa.php
+#EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\DDramas.png" tvg-name="52",ddrama
+http://data.xemtivihot.com/live/vtvcab/ddramas.php
+#EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\Echannel.png" tvg-name="52",echannel
+http://data.xemtivihot.com/live/vtvcab/echannel.php
+#EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\vtc6.png" tvg-name="30",VTC6
+http://data.xemtivihot.com/live/vtv/vtv6.php
+#EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\vtv1.png" tvg-name="1",VTV1
+http://data.xemtivihot.com/live/vtv/vtv1.php
+#EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="1",VTV3
+http://data.xemtivihot.com/live/vtv/vtv3.php
+#EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\vtv2.png" tvg-name="1",VTV2
+http://data.xemtivihot.com/live/vtv/vtv2.php
+#EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\vtv14.png" tvg-name="1",VTV14
+http://data.xemtivihot.com/live/vtv/vtv4.php
+#EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\vtv15.png" tvg-name="1",VTV15
+http://data.xemtivihot.com/live/vtv/vtv5.php
+#EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\vtv9.png" tvg-name="1",VTV9
+http://data.xemtivihot.com/live/vtv/vtv9.php
+#EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\vtv7.png" tvg-name="6",VTV7 
+http://data.xemtivihot.com/live/vtc/vtc7.php
+#EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\VBS.png" tvg-name="6",VBS
+http://uni6rtmp.tulix.tv:1935/vbstv/myStream.sdp/chunklist_w294693091.m3u8
