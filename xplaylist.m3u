@@ -1,0 +1,92 @@
+#EXTM3U url-tvg="http://free.cloudepg.com:34444/xmltv/xteve.xml" x-tvg-url="http://free.cloudepg.com:34444/xmltv/xteve.xml"
+#EXTINF:0 channelID="x-ID.0" tvg-chno="1000" tvg-name="HGTV HD" tvg-id="1000" tvg-logo="https://i.imgur.com/2vQ8yIX.png" group-title="",HGTV HD
+http://free.cloudepg.com:34444/stream/0ab73cd002c3c8abcf894271d3d77066
+#EXTINF:0 channelID="x-ID.1" tvg-chno="1001" tvg-name="Court TV" tvg-id="1001" tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="",Court TV
+http://free.cloudepg.com:34444/stream/3431f1560e62ebb99ba5433445ddc28b
+#EXTINF:0 channelID="x-ID.2" tvg-chno="1002" tvg-name="History HD" tvg-id="1002" tvg-logo="https://i.imgur.com/ejXfHa4.png" group-title="",History HD
+http://free.cloudepg.com:34444/stream/30a7a07225e004e9fb3cc8da1a491270
+#EXTINF:0 channelID="x-ID.3" tvg-chno="1003" tvg-name="ESPN 2 HD" tvg-id="1003" tvg-logo="https://i.imgur.com/JtSSvss.png" group-title="Sport",ESPN 2 HD
+http://free.cloudepg.com:34444/stream/5ba895c1b0601130570dc547307e9f73
+#EXTINF:0 channelID="x-ID.4" tvg-chno="1004" tvg-name="ESPN HD" tvg-id="1004" tvg-logo="https://i.imgur.com/zQSTKzm.png" group-title="Sport",ESPN HD
+http://free.cloudepg.com:34444/stream/4a1542435888e9c15a564f720076eb3a
+#EXTINF:0 channelID="x-ID.5" tvg-chno="1005" tvg-name="A&E HD" tvg-id="1005" tvg-logo="https://i.imgur.com/Q2VN3Rr.png" group-title="",A&E HD
+http://free.cloudepg.com:34444/stream/ef898d2fc84bcc7f96b467917071962b
+#EXTINF:0 channelID="x-ID.6" tvg-chno="1006" tvg-name="Lifetime HD" tvg-id="1006" tvg-logo="https://i.imgur.com/2ettxWH.png" group-title="",Lifetime HD
+http://free.cloudepg.com:34444/stream/69a105bb9c28d55c5c77b3a39b00e2c3
+#EXTINF:0 channelID="x-ID.7" tvg-chno="1007" tvg-name="FOX News HD" tvg-id="1007" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/fnc.png" group-title="News",FOX News HD
+http://free.cloudepg.com:34444/stream/50377e63114710f65e73146cbb45d443
+#EXTINF:0 channelID="x-ID.9" tvg-chno="1009" tvg-name="CNN HD" tvg-id="1009" tvg-logo="https://i.imgur.com/s9SouED.png" group-title="",CNN HD
+http://free.cloudepg.com:34444/stream/d27c7af50c54a48b77a627f2e67ffcff
+#EXTINF:0 channelID="x-ID.10" tvg-chno="1010" tvg-name="Disney Junior" tvg-id="1010" tvg-logo="https://i.imgur.com/7EKaPtE.png" group-title="",Disney Junior
+http://free.cloudepg.com:34444/stream/e6ef23d37a00b0f24fec62345578048e
+#EXTINF:0 channelID="x-ID.12" tvg-chno="1012" tvg-name="Fox Sports 1" tvg-id="1012" tvg-logo="https://i.imgur.com/vHYFQYR.png" group-title="Sport",Fox Sports 1
+http://free.cloudepg.com:34444/stream/75d5569e845a30b7be64fdd28d6a0ef6
+#EXTINF:0 channelID="x-ID.13" tvg-chno="1013" tvg-name="MLB Network" tvg-id="1013" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/mlbnetwork.png" group-title="Sport",MLB Network
+http://free.cloudepg.com:34444/stream/45c4debc5983a778ae7bc0ae35ee8d72
+#EXTINF:0 channelID="x-ID.16" tvg-chno="1016" tvg-name="TBS HD" tvg-id="1016" tvg-logo="https://i.imgur.com/fjMg1wx.png" group-title="",TBS HD
+http://free.cloudepg.com:34444/stream/46f5be25cf7e40035372b7c42fd0858e
+#EXTINF:0 channelID="x-ID.17" tvg-chno="1017" tvg-name="The Weather Channel" tvg-id="1017" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/weatherchannel.png" group-title="Weather",The Weather Channel
+http://free.cloudepg.com:34444/stream/215afe00e347502fca88e6bacb8e4de4
+#EXTINF:0 channelID="x-ID.19" tvg-chno="1019" tvg-name="TNT HD" tvg-id="1019" tvg-logo="https://i.imgur.com/yAuE4iE.png" group-title="",TNT HD
+http://free.cloudepg.com:34444/stream/d76c6c9027fd95b3ecd61a84dd4c1eff
+#EXTINF:0 channelID="x-ID.20" tvg-chno="1020" tvg-name="USA HD" tvg-id="1020" tvg-logo="https://i.imgur.com/tIaICiP.jpg" group-title="",USA HD
+http://free.cloudepg.com:34444/stream/07aaa46319da862984556b339a826cc5
+#EXTINF:0 channelID="x-ID.21" tvg-chno="1021" tvg-name="VH1" tvg-id="1021" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/vh1.png" group-title="",VH1
+http://free.cloudepg.com:34444/stream/d5474006eefcdb6a8d48521238b310dc
+#EXTINF:0 channelID="x-ID.22" tvg-chno="1022" tvg-name="TMZ" tvg-id="1022" tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="",TMZ
+http://free.cloudepg.com:34444/stream/3ec459dbfc7532081fa5f3c670e5bd10
+#EXTINF:0 channelID="x-ID.23" tvg-chno="1023" tvg-name="HSN" tvg-id="1023" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/homeshop.png" group-title="Shop",HSN
+http://free.cloudepg.com:34444/stream/f6c9797659fd87b35f15c9c5e74affe4
+#EXTINF:0 channelID="x-ID.31" tvg-chno="1031" tvg-name="ABC 7 Sarasota FL (WWSB)" tvg-id="1031" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/abc.png" group-title="Local",ABC 7 Sarasota FL (WWSB)
+http://free.cloudepg.com:34444/stream/d66dada2425455e5c8bf0d589ca5acdd
+#EXTINF:0 channelID="x-ID.46" tvg-chno="1046" tvg-name="CBS" tvg-id="1046" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" group-title="",CBS
+http://free.cloudepg.com:34444/stream/6eb018bc222f97499882d330553cb62b
+#EXTINF:0 channelID="x-ID.56" tvg-chno="1056" tvg-name="CBSN" tvg-id="1056" tvg-logo="https://i.imgur.com/HbOrvOn.jpg" group-title="News",CBSN
+http://free.cloudepg.com:34444/stream/758ab4e301c13c99a483b2c1e3c4085f
+#EXTINF:0 channelID="x-ID.68" tvg-chno="1068" tvg-name="NBC" tvg-id="1068" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbc.png" group-title="",NBC
+http://free.cloudepg.com:34444/stream/cf764f9ca9d3fd0895ee9a450af84356
+#EXTM3U $BorpasFileFormat="1"
+#EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\THVL1.png" tvg-name="154",THVL1
+http://cdn.xemtivisohd.com/live/diaphuong/thvl1.php
+#EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\THVL1.png" tvg-name="154",THVL2
+http://cdn.xemtivisohd.com/live/diaphuong/thvl2.php
+#EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv9.png" tvg-name="52",SCTV9
+http://cdn.xemtivisohd.com/live/khac/sctv9.php
+#EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\VTC14.png" tvg-name="43",VTC14
+http://cdn.xemtivisohd.com/live/sctv/sctv14.php
+#EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv15.png" tvg-name="53",SCTV15
+http://cdn.xemtivisohd.com/live/sctv/sctv15.php
+#EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\KhanhHoaTV.png" tvg-name="169",KhanhHoaTV
+http://cdn.xemtivisohd.com/live/diaphuong/khanhhoa.php
+#EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\DDramas.png" tvg-name="52",ddrama
+http://data.xemtivihot.com/live/vtvcab/ddramas.php
+#EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\Echannel.png" tvg-name="52",echannel
+http://data.xemtivihot.com/live/vtvcab/echannel.php
+#EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\vtc6.png" tvg-name="30",VTC6
+http://data.xemtivihot.com/live/vtv/vtv6.php
+#EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\vtv1.png" tvg-name="1",VTV1
+http://data.xemtivihot.com/live/vtv/vtv1.php
+#EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="1",VTV3
+http://data.xemtivihot.com/live/vtv/vtv3.php
+#EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\vtv2.png" tvg-name="1",VTV2
+http://data.xemtivihot.com/live/vtv/vtv2.php
+#EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\vtv14.png" tvg-name="1",VTV14
+http://data.xemtivihot.com/live/vtv/vtv4.php
+#EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\vtv15.png" tvg-name="1",VTV15
+http://data.xemtivihot.com/live/vtv/vtv5.php
+#EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\vtv9.png" tvg-name="1",VTV9
+http://data.xemtivihot.com/live/vtv/vtv9.php
+#EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\vtv7.png" tvg-name="6",VTV7 
+http://data.xemtivihot.com/live/vtc/vtc7.php
+#EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\VBS.png" tvg-name="6",VBS
+http://uni6rtmp.tulix.tv:1935/vbstv/myStream.sdp/chunklist_w294693091.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv2.png" tvg-name="54",SCTV2
+http://data.xemtivihot.com/live/sctv/sctv2.php
+#EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\ANTV.png" tvg-name="55",ANTV
+http://data.xemtivihot.com/live/khac/antv.php
+#EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\HTV9.png" tvg-name="56",HTV9
+http://cdn.xemtivisohd.com/live/htv/htv9.php
+#EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\HTV2.png" tvg-name="57",HTV2
+http://cdn.xemtivisohd.com/live/htv/htv2.php
+#EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\HTV7.png" tvg-name="58",HTV7	
+http://cdn.xemtivisohd.com/live/htv/htv7.php
