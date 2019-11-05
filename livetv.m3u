@@ -1,0 +1,26 @@
+
+#EXTM3U $BorpasFileFormat="1"
+
+#EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="52",vtv6
+
+http://27.67.64.78:18080//156_2.m3u8?AdaptiveType=HLS&SessionID=cb198b6c-0df4-4cb9-ae26-d2d81f8a972f&MinBw=0&MaxBw=2000000
+#EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv9.png" tvg-name="53",SCTV9
+
+https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_PhimChauA.smil/chunklist_w390560282_b1192000.m3u8?uid=v2a45474v23474z584x506&t_end=o4i5u5h514441394v22474s2p233y2&mytokenstarttime=1552149758&mytokenendtime=1552157258&mytokenhash=foTxVtf7w96VJqe2cwKoEHzzlqeqTHaFfnSfmGqs-ic%3D
+#EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\sctv2.png" tvg-name="54",SCTV2
+
+https://vtsstr3.tv24.vn/elive/_definst_/smil:sctv2_HD.smil/playlist.m3u8?uid=v2a45474v23474z584x506&t_end=o4i5u5h514441394v22474s2p233y2&mytokenstarttime=1552149758&mytokenendtime=1552157258&mytokenhash=foTxVtf7w96VJqe2cwKoEHzzlqeqTHaFfnSfmGqs-ic=
+#EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\vtvcab7.png" tvg-name="55",vtvcab7
+http://27.67.80.6:18080/229.m3u8?AdaptiveType=HLS&VOD_RequestID=YeAALBMOTnGTGhXqPY4DqD2lmE7Z1qmo3B8ishZpor7RwUmY28flkBqB6NKeMN0mb59AbtVfAxRop4da8ZT+mt7dTIxizW5h9ZIIf8rBO9Gq1mxQkq/H4X17deSzmhhc
+#EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\DDramas.png" tvg-name="56",ddrama
+http://27.67.50.74:18080/227_2.m3u8?Range=14981217-14981218&SessionID=f1789744-6d34-47cf-b3ee-4d3e1e260a40
+#EXTINF:-1 group-title="SCTV" tvg-logo="..\Channel\Logo\ctv9.png" tvg-name="52",CTV9
+
+http://27.67.80.80:18080/48_1.m3u8?Range=14939490-14939491&SessionID=c89972d5-2a0b-415b-af42-c48a7b052fb2
+#EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\THVL1.png" tvg-name="154",THVL1
+http://27.67.50.79:18080//133_0.m3u8?AdaptiveType=HLS&SessionID=8a561c5e-1a5e-48d9-9379-ea7a7ad299e6&MinBw=0&MaxBw=2000000
+#EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\THVL2.png" tvg-name="154",THVL2
+http://cdn.xemtivisohd.com/nguon/viettel.php?id=vinhlong2&token=EJlXzQ1gG7j1QcSLrQUhfQ&e=1572987554
+#EXTINF:-1 group-title="VBS" tvg-logo="..\Channel\Logo\vbs.png" tvg-name="52",VBS
+
+http://uni6rtmp.tulix.tv:1935/vbstv/myStream.sdp/chunklist_w294693091.m3u8
